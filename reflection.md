@@ -22,6 +22,10 @@ What extra feature did you add?
 
 I added a question that asks for the user's favorite programming language and responds to it.
 
+For stretch credit, I changed the program so it keeps asking for names until the user types `quit`. I also made it check for blank names. If the user just presses Enter, the program prints a friendly message and asks again instead of greeting an empty name.
+
+Codex helped me debug by running the program in the terminal with test input. I tested a blank name, a real name, a favorite programming language, and `quit` to make sure both stretch features worked.
+
 What part of the TypeScript code do you understand best?
 
 I understand the `console.log()` lines best because they print messages to the terminal.
